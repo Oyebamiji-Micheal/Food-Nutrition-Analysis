@@ -5,7 +5,7 @@
 
 image credit: Utsav Dey
 
-<p align="justify">So it's been a while a played around predictive modelling so I decided to take a look at a food nutrition dataset. The dataset contains information on the nutritional content of various foods, including calories, fat, protein, and sugar. The goal of this project is to perform exploratory data analysis (EDA) to understand the distribution of nutrients in the dataset and identify any patterns or relationships between them. I will also build a predictive model to predict the calorie content of a food based on its fat, protein, and sugar content.</p>
+<p align="justify">So it's been a while I played around predictive modelling so I decided to take a look at a food nutrition dataset. The dataset contains information on the nutritional content of various foods, including calories, fat, protein, and sugar. The goal of this project is to perform exploratory data analysis (EDA) to understand the distribution of nutrients in the dataset and identify any patterns or relationships between them. I will also build a predictive model to predict the calorie content of a food based on its fat, protein, and sugar content.</p>
 
 ### Insights from EDA
 **Distribution of Calorie and Fat**
